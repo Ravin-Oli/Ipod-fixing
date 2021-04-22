@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBar</key>
+	<array>
+	</array>
+	<key>sbIconList</key>
+	<array>
+		<array>
+			<string>SBNowPlaying</string>
+			<string>SBRadio</string>
+			<string>SBFitness</string>
+			<string>SBMusic</string>
+		</array>
+		<array>
+			<string>SBClocks</string>
+			<string>SBPhotos</string>
+			<string>SBPodcasts</string>
+			<string>SBSettings</string>
+		</array>
+		<array>
+			<string>SBPlaylists</string>
+			<string>SBAlbums</string>
+			<string>SBGenius</string>
+			<string>SBArtists</string>
+		</array>
+		<array>
+			<string>SBSongs</string>
+			<string>SBGenres</string>
+			<string>SBComposers</string>
+		</array>
+	</array>
+</dict>
+</plist>
